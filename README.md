@@ -1,5 +1,5 @@
 # finger_lock
-  Based on Keil, using STC89C52RC and AS608 fingerprint unlocking module 
+  Based on Keil, using STC89C52RC and AS608 fingerprint unlocking module  
   Only includes. c files  
   So you need to recreat Keil5 project 
   Video explanation--Bilibili.BV1S34y1c7kY  
